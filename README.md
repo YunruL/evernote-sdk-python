@@ -33,7 +33,7 @@ The code in `sample/client/EDAMTest.py` demonstrates the basics of using the Eve
     $ export PYTHONPATH=../../lib; python EDAMTest.py
     ```
 
-Getting Started - Django with OAuth
+Getting Started - Django with OAuth--this is a Django 1.9.1 version
 ------------------------------------
 Web applications must use OAuth to authenticate to the Evernote service. The code in sample/django contains a simple web apps that demonstrate the OAuth authentication process. The application use the Django framework. You don't need to use Django for your application, but you'll need it to run the sample code.
 
